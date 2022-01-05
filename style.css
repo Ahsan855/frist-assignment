@@ -34,7 +34,7 @@ body{
     line-height: 1.5em;
     width: 50%;
 }
-.explore-us a{
+.defalt-btn{
     color: white;
     text-decoration: none;
     background-color: #ff5959;
@@ -42,7 +42,7 @@ body{
     font-size: 20px;
     border-radius: 5px;
 }
-.explore-us a:hover{
+.explore-us .defalt-btn:hover{
     background-color: #e21d1d;
     transition: .5s;
 }
@@ -52,4 +52,164 @@ body{
 }
 .explore-us{
     margin-top: 120px;
+}
+.titel-misson h1{
+    font-size: 40px;
+    color: #13103a;
+    text-align: center;
+
+}
+.titel-misson h1 span{
+    color: #ffad5a;
+}
+
+.mission-content img{
+   height: 200px;
+   width: auto;
+}
+.mission-content h4{
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+}
+.mission-content p{
+    color: #3e3e3e;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+.mission-conten{
+    background-color: #e3fafd;
+    border-radius: 10px;
+}
+.about-section{
+    margin-top: 120px;
+    display: flex;
+}
+.vission-content img{
+   height: 200px;
+   width: auto;
+}
+.vission-content p{
+    color: #3e3e3e;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+.vission-content{
+    background-color: #ffeeee;
+    border-radius: 10px;
+}
+.goals-content img{
+    height: 200px;
+    width: auto;
+}
+.goals-content p{
+    color: #3e3e3e;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+.margin-left{
+    margin-left: 25px;
+}
+.goals-content{
+background-color: #fff4d6;
+border-radius: 10px;
+}
+
+.develop-section{
+    margin-top: 140px;
+    display: flex;
+    
+}
+.develop-section img{
+    margin-left: 100px;
+    width: 500px;
+    height: auto;
+}
+.image-content{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    background-size: 50%;
+}
+.develop-content h1{
+    color: #333333;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.develop-content{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.develop-content p{
+    color: #3e3e3e;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+
+.my-linkedin{
+    text-align: center;
+    margin-top: 100px;
+}
+.my-linkedin h1{
+    font-size: 40px;
+    font-weight: 600;
+   color: black;
+}
+.my-linkedin h1 span{
+    font-size: 40px;
+    font-weight: 600;
+    color:#ffad5a ;
+}
+.linkedin-profile{
+    margin-top: 50px;
+    display: flex;
+}
+.linkedin-profile img{
+
+   margin-top: 200px;
+    height: auto;
+    width: 100%;
+
+}
+.linkedin-profile h1 span{
+    font-size: 40px;
+    font-weight: 600;
+    color:#ffad5a ;
+}
+footer{
+    text-align: center;
+    margin-top: 60px;
+    background-color: #0b0d17;
+    padding: 30px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 40px;
+}
+footer h1 span{
+    font-family: 'Lobster', cursive;
+    
+    font-size: 40px;
+    font-weight: 600;
+    color:#00e6da ;
+}
+footer p{
+    color: white;
+    font-size: 17px;
+}
+.back-img-dibo{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    background-size: 50%;
+}
+.back-img-dibo img{
+    margin-right: 150px;
+    margin-bottom: 300px;
+    width: 500px;
+    height: auto;
 }
