@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.home-section{
+    width: 1220px;
+    height: 700px;
+    margin: auto;
+    display: flex;
+}
+.profile-img img{
+    height: 80%;
+    width: auto;
+}
+.explore-us h1{
+    font-size: 40px;
+    font-weight: 600;
+    color: #333333;
+    margin-left: 10px;
+    
+}
+.border-left{
+    border-left: 3px solid #ff5959;
+}
+.explore-us h1 span{
+    color: #ffad5a;
+    font-size: 40px;
+}
+.explore-us p{
+    color: #3e3e3e;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+    width: 50%;
+}
+.explore-us a{
+    color: white;
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 35px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.explore-us a:hover{
+    background-color: #e21d1d;
+    transition: .5s;
+}
+.explore-us h5{
+    color: #959595;
+    margin-top: 30px;
+}
+.explore-us{
+    margin-top: 120px;
+}
