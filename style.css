@@ -90,9 +90,13 @@ body {
     margin-bottom: 30px;
     line-height: 1.5em;
 }
-
-.mission-conten {
-    background-color: #e3fafd;
+.mission-content h4{
+    font-size: 25px;
+    font-weight: 800;
+}
+.mission-content{
+    padding: 15px 20px;
+    background-color: #cff5fb;
     border-radius: 10px;
 }
 
@@ -105,7 +109,10 @@ body {
     height: 200px;
     width: auto;
 }
-
+.vission-content h4{
+    font-size: 25px;
+    font-weight: 800;
+}
 .vission-content p {
     color: #3e3e3e;
     margin-bottom: 30px;
@@ -113,6 +120,7 @@ body {
 }
 
 .vission-content {
+    padding: 15px 20px;
     background-color: #ffeeee;
     border-radius: 10px;
 }
@@ -131,8 +139,12 @@ body {
 .margin-left {
     margin-left: 25px;
 }
-
+.goals-content h4{
+    font-size: 25px;
+    font-weight: 800;
+}
 .goals-content {
+    padding: 15px 20px;
     background-color: #fff4d6;
     border-radius: 10px;
 }
